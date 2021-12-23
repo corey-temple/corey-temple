@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @corey-temple
+- 👀 I’m interested in learning HTML, CSS, JavaScript and React
+- 🌱 I’m currently learning CSS
+- 💞️ I’m looking to collaborate on my weaknesses in an effort to improve my skillset and hopefully, one day, become a front end developer
+- 📫 How to reach me - corey.temple@gmail.com
